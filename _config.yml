@@ -3,7 +3,7 @@ title: The Minimum Viable Model
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yanchangjie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
@@ -31,9 +31,9 @@ about-author: Engineer, industry executive, research enthusiast. Avid learner wi
 # Contact links
 email: armando.maynez@gmail.com # Add your Email address
 phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
+website: https://yanchangjie.github.io # Add your website
+linkedin: yanchangjie # Add your Linkedin handle
+github: yanchangjie # Add your Github handle
 twitter: '@MvmThe' # Add your Twitter handle
 bandcamp: armandomaynez # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
